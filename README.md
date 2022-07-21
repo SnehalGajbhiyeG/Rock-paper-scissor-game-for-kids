@@ -1,2 +1,4 @@
-# Rock-paper-scissor-game-for-kids
-A classic two-person game. Players start each round by saying, "rock, paper, scissors, shoot!".
+# Rock-Paper-Scissor-Game-using-Python 
+
+Rock, paper, scissors game with graphical interface in python using Tkinter.
+
